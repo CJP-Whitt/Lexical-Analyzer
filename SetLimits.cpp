@@ -1,4 +1,4 @@
-#include <sys/time.h>
+#include <time.h>
 #include <sys/resource.h>
 #include <unistd.h>
 #include "SetLimits.h"
